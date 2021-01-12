@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/kuch_bhi",
+    "prod_uri": "mysql://root:@localhost/kuch_bhi",
+    "fb_url": "facebook url",
+    "tw_url": "twitter_url",
+    "github_url": "github_url",
+    "blog_name": " Kuch Bhi",
+    "tagline": "Blog by Himachali Bawa",
+    "gmail_user": "****NAME****@gmail.com",
+    "gmail_password": "PASSWORD",
+    "about_text": "My name is Sajul Im from himachal pradesh",
+    "no_of_posts": 1,
+    "dash_image": "dash.svg",
+    "admin_user": "sajul",
+    "admin_pass": "enterpassword",
+    "upload_location": "C:\\Users\\Awasthi\\PycharmProjects\\blog1\\static"
+  }
+}
