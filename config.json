@@ -16,6 +16,6 @@
     "dash_image": "dash.svg",
     "admin_user": "sajul",
     "admin_pass": "enterpassword",
-    "upload_location": "C:\\Users\\Awasthi\\PycharmProjects\\blog1\\static"
+    "upload_location": "C:\\blog1\\static"
   }
 }
